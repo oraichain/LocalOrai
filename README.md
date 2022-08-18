@@ -66,7 +66,7 @@ $ docker-compose stop
 Reset the world state:
 
 ```sh
-$ docker-compose rm
+$ docker-compose exec orai bash -c 'oraid unsafe-reset-all'
 ```
 
 ## Integrations

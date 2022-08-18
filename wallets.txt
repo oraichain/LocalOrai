@@ -1,0 +1,27 @@
+- name: validator
+  type: local
+  address: orai1xemrjc23mcvq8046ntf6rug57gjhfae9zk2q2c
+  pubkey: oraipub1addwnpepqgmhv0j7m3c0h9frryx4f3u8shjm6gm6wgzrpxgh2n3hmgj2wv3k2mlfska
+  mnemonic: ""
+  threshold: 0
+  pubkeys: []
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+element lawn liquid because erosion pelican laptop flip lunch shiver because lady impact raw keep front document property trumpet just resemble train ranch catch
+
+- name: test1
+  type: local
+  address: orai1dsem6y8ecra4af9vtcuek0nrj9vy0vcgsff88d
+  pubkey: oraipub1addwnpepqtpj6hkgn96q249ymzz4zxnjv4zksvwasd524p9788hez0e8ms675uzvgh8
+  mnemonic: ""
+  threshold: 0
+  pubkeys: []
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+ginger solid anxiety roof limit camp road burden crane paddle mule wage smart bunker melt gym census face issue fashion truly comfort cruel seek

@@ -61,3 +61,5 @@ data/*
 !data/priv_validator_state.json
 config/addrbook.json
 config/write-file-atomic*
+
+priv_validator_state.json

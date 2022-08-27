@@ -44,9 +44,17 @@ $ cd LocalTerra
 
 - Start LocalTerra:
 
+### Linux & MacOS:
+
 ```sh
-$ docker-compose up
+$ [ -f ./data/priv_validator_state.json ] || echo '{"height":"0","round":0,"step":0}' > ./data/priv_validator_state.json && docker-compose up
 ```
+
+### Windows:
+
+Create a new file in `data/` and adds the following content: `{"height":"0","round":0,"step":0}`
+
+then start the container.
 
 Your environment now contains:
 
